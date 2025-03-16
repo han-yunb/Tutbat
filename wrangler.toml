@@ -1,5 +1,0 @@
-name = "digital-tutbat"
-main = "./public/tags/index.html"
-
-[site]
-bucket = "./public"
