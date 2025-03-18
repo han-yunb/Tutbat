@@ -95,3 +95,11 @@ Github: "https://github.com/han-yunb/Tutbat"
 ### 댓글 설정
 Giscus provider를 사용해서 댓글을 달 수 있도록 설정할 수 있다 (단, public repo만 가능)
 자세한 내용은 [링크](https://quartz.jzhao.xyz/features/comments) 참고
+
+## 트러블슈팅
+
+### 사이드바 중복 이슈
+다른 모든 노트는 괜찮은데, 자기소개 노트인 `About Me` 에서만 자꾸 사이드바가 중복으로 생기는 이슈가 있었다
+왜 이럴까 하고 디버깅을 해봤는데 결과적으로 cloudflare에서 이메일 주소를 막는 기능 때문이었다
+Scrape Shield 탭에서 Email Address Obfuscation 모드를 disable 하니 해결됨
+저 모드를 키면 뭔가 Javascript를 한 번 수행하는 것 같은데, 페이지를 로드할 때 이슈를 발생시키는 것으로 추측된다
