@@ -51,17 +51,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     //Component.Graph(),
-    Component.DesktopOnly(Component.RecentNotes({ 
-      title: "Recent writing",
-      //linkToMore: "tags/" as SimpleSlug, 
-      limit: 3, 
-      showTags: true,
-      sort: (pageA, pageB) => {
-        const dateA = pageA.dates?.modified?.getTime() ?? 0
-        const dateB = pageB.dates?.modified?.getTime() ?? 0
-        return dateB - dateA
-      }
-    })),
     Component.TableOfContents(),
     Component.Backlinks(),
   ],
