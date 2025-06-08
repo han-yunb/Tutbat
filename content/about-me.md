@@ -154,6 +154,7 @@ NHN Cloud에서 시스템 엔지니어로 일하며 DevOps와 관련된 업무�
 - Unity 기반의 게임 개발 프로젝트 리딩
 - 인게임 리소스 효율화를 위한 AWS 리소스 연동 및 Terraform IaC 기반의 구성 자동화
 - Google sheets 기반의 인게임 맵 데이터 관리 및 에디터 연동 기능 개발
+- 3번의 글로벌 게임잼 참여
 ### Presentation
 - [오픈 인프라 서밋 후기](https://2023.openinfradays.kr/session/68) at OpenInfra Community Days Korea 2023
 ## 📞 Contact
