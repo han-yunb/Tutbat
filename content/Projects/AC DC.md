@@ -1,6 +1,7 @@
 ---
 title: AC/DC
 comments: "false"
+date: 2025-04-27
 ---
 > 2023.09 ~ 2024.11
 ## 문제점

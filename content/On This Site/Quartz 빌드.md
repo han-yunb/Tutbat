@@ -1,3 +1,6 @@
+---
+date: 2025-03-16
+---
 > based on: Quartz 4.4
 
 정적 웹사이트 생성기인 quartz는 [[Obsidian 퍼블리싱 방법]] 중 하나로, 오픈소스로 공개되어 있다 (자세한 사항은 [quartz documentation](https://quartz.jzhao.xyz/)을 참고)
