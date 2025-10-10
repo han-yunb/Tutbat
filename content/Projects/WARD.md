@@ -13,7 +13,7 @@ comments: "false"
 - 그래프를 통해 알림 발생 추이를 시각적으로 확인할 수 있는 기능 추가
 ## 구조
 
-![[Pasted image 20250427150211.png]]
+![[Pasted image 20251010162308.png]]
 ## 기술 스택
 - RMQ
 - Docker

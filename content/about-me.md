@@ -3,7 +3,7 @@ title: About Me
 comments: "false"
 ---
 ## 👋 Introduce!
-**안녕하세요, 판교에서 5년차 클라우드 시스템 엔지니어로 일하고 있는 한윤범입니다.**
+**안녕하세요, 클라우드 시스템 엔지니어로 일하고 있는 한윤범입니다.**
 
 모든 것에는 기본이 되는 가치가 있습니다. IT 분야의 모든 서비스는 결국 물리 서버를 기반으로 한 인프라 위에서 동작합니다. 제가 첫 번째 직업으로 시스템 엔지니어를 선택한 이유는 IT 분야를 가장 근본적인 곳에서부터 경험하고 싶었기 때문입니다.
 
@@ -14,9 +14,13 @@ NHN Cloud에서 시스템 엔지니어로 일하며 DevOps와 관련된 업무�
 개인적으로는 본업 뿐만 아니라 게임 개발에도 시간을 투자하고 있습니다. 기획, 아트, 개발 분야의 5명으로 이루어진 팀으로 함께 인디게임을 개발하고 있습니다. Unity 엔진을 사용해 세 번의 글로벌 게임잼에 참여한 이력이 있으며, 게임 업계 전반을 경험하고 이해하는 데 힘쓰고 있습니다.
 
 ## 🧑🏻‍💻 Work
+### Toss (Viva Republica)
+> System Engineer
+> 2025.10. - 현재
+- Infra Engineering Tribe
 ### NHN Cloud
 > System Engineer
-> 2020.07. - 현재
+> 2020.07. - 2025.10.
 - 퍼블릭/공공/Private 클라우드 시스템 구축, 운영
 	- Openstack 기반 멀티 리전/가용 영역 구성 및 서비스 제공 업무 수행
 	- RHEL/CentOS 계열의 Linux 물리/가상 서버 운영, 커널 파라미터 튜닝, 시스템 설정 최적화, 운영 업무 자동화에 필요한 Shell script 개발
@@ -157,6 +161,7 @@ NHN Cloud에서 시스템 엔지니어로 일하며 DevOps와 관련된 업무�
 - 3번의 글로벌 게임잼 참여
 ### Presentation
 - [오픈 인프라 서밋 후기](https://2023.openinfradays.kr/session/68) at OpenInfra Community Days Korea 2023
+- [NHN Cloud Openstack의 multi-region 배포 전략](https://2025.openinfradays.kr/session/13) at OpenInfra Days Korea 2025
 ## 📞 Contact
 Email. yunbum.han@gmail.com
 Github. https://github.com/han-yunb

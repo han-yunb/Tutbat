@@ -13,7 +13,7 @@ comments: "false"
 - 사용자가 손쉽게 테스트할 수 있도록 챗봇 Slash command를 개발해 제공
 ## 구조
 
-![[Pasted image 20250427133101.png]]
+![[Pasted image 20251010161356.png]]
 (현재는 Jenkins를 Github Actions로 대체)
 ## 기술 스택
 - Python, Shell Script
