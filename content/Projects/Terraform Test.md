@@ -10,12 +10,11 @@ date: 2025-04-27
 - 리전이 많아질수록 점점 더 많은 시간이 소요되었고, 이 작업을 자동화하기로 결정
 ## 해결 방법
 - Terraform을 사용해 NHN Cloud의 리소스를 생성, 테스트, 삭제하는 코드 작성
-- Jenkins 워크플로우를 통해 원하는 리전에 Terraform apply 수행
+- Github Actions 워크플로우를 통해 원하는 리전에 Terraform apply 수행
 - 사용자가 손쉽게 테스트할 수 있도록 챗봇 Slash command를 개발해 제공
 ## 구조
 
 ![[Pasted image 20251010161356.png]]
-(현재는 Jenkins를 Github Actions로 대체)
 ## 기술 스택
 - Python, Shell Script
 - Terraform
